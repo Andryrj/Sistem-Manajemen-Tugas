@@ -43,7 +43,7 @@ Informasi login dummy
 Nama: Admin
 Username: admin
 Email: admin@gmail.com
-Password: admin
+Password: password
 
 
 Struktur Tabel
@@ -67,11 +67,4 @@ Tabel Tasks
 | deadline    | date    | Tanggal selesai task       |
 | created_by  | varchar | Nama pembuat task          |
 
-
-Screenshot tampilan utama
-screenshots/login.JPG - Halaman Login
-screenshots/dashboard.JPG - Halaman Dashboard
-screenshots/task_index.JPG - Menu task
-screenshots/task_create.JPG - Form create task
-screenshots/task_edit.JPG - Form edit task
 
